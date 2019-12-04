@@ -1,5 +1,5 @@
 # javascript-form-output-functions
-Javascript Output Functions - to pass form elements
+Javascript Output Functions - to pass to form elements
 <p>Hello, David Adamson here, so I've created these simple functions in Javascript that pass the function result into a form text field using document.inputForm.output.value = varName;.
     Please feel free to use them in your code/website.</p>
        <p>Hopefully you'll see more of this in the future. Hope you find it useful. Any comments/updates etc appreciated. </p>
